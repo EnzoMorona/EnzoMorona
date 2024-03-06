@@ -5,15 +5,13 @@
 </div> 
 
 
-- :hurtrealbad:Cursando Informática |
+- :hurtrealbad:Terminando Técnico de Informática |
 - :bowtie:Joga nas horas vagas |
-- :sob:só capa ai nobru apelãoooo |
-- :sun_with_face:Gosta de pintura |
-
+- Ja tive contato com: PHP, C#, C++, React, React Native, Python/Django, JavaScript, MapBox/MapLibre
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tyttpGPiOxzxQHrRc2I/giphy.gif"
 </div> 
 
 - :sunglasses:Mais de 20.000 Horas totais de games |
-- :thumbsup:Morando com a família
+
